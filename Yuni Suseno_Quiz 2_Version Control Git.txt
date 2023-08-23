@@ -1,0 +1,53 @@
+Nama : Yuni Suseno
+Kelas : Artificial Intelligence A
+
+Quiz 2 Version Control Git
+
+
+2. Pengenalan Git, Gitlab - Github
+
+Buatlah analisis materi dengan topik Git. Analisis tersebut dikumpulkan dalam file bentuk txt
+
+	Git
+Git atau Group Inclusive Tour merupakan version control system yang gratis
+dan open source. Git memungkinkan para pengembang untuk bekerja bersama-sama
+pada proyek yang sama. terdapat 2 sistem git yaitu :
+	- Centralized : Bekerja dengan menggunakan 1 server yang berfungsi untuk 	menyimpan data dari project dan membutuhkan koneksi network untuk 	mengaksesnya.
+	-Distributed : Bekerja dengan menyimpan data project di lokal dan juga 	server.
+
+Fitur - Fitur Git :
+1. Version Control : menyimpan setiap perubahan pada source code, sehingga memungkinkan pengguna untuk memantau & mengelola code.
+
+2. Git Branch : digunakan ketika developer menambahkan fitur baru/memperbaiki bug. Fungsi utamaya adalah agar pada saat penambahan fitur baru tidak menggangu source code utama. 
+
+3. Merging : memungkinkan pengguna yang telah selesai mendevelope code dan melalukan testing untuk menggabungkan perubahan yang telah dibuat ke branch utama.
+ 
+4. Staging Area : pengguna dapat memilih perubahan mana yang akan di commit ke repository.
+
+5. Git Rebase:  digunakan untuk menggabungkan atau menggeser commit base.
+
+6. Hooks : yaitu script yang dijalankan secara otomatis saat terjadi peristiwa tertentu di dalam git.
+
+7. GUI Tools : untuk memudahkan penggunaan git bagi pengguna yang kurang terbiasa dengan command line.
+
+Kelebihan Git :
+1. Dapat mengelola versi kode sumber dengan mudah dan efisien 
+2. Dapat melalukan branching dan merging dengan mudah dan aman
+3. Dapat melacak perubahan dan siapa yang membuat perubahan source code
+4. Memiliki performa yang cepat dan stabil dalam pengelolaan kode sumber yang besar.
+
+Kelamahan Git :
+1. Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang berpengalaman
+2. Memerlukan pemahaman yang baik tentang konsep dasar seperti repository, commit, branching, dan merging.
+3. Sulit digunakan untuk pengelolaan file bner atau non-teks, seperti gambar atau video.
+
+Instalasi Git :
+1. Download file git pada https://git-scm.com/downloads dengan menyusaikan versi git dan sistem operasi yang dimiliki
+2. Buka file instalator untuk melanjutkan proses intalasi, ikuti intruksi yang muncul pada layar
+3. Pilih komponen yang ingin diinstal dan direktori tempat git akan diinstal
+4. setelah intalasi selesai, verifikasi intalasi git dengan mengecek di terminal dengan perintah git --version. Jika benar tproses instalasi selesai makan akan muncul versi Git yang terpasang.
+
+
+
+	
+	 
